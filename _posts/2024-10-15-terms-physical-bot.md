@@ -6,4 +6,5 @@ category: งาน Physical Bot
 layout: post
 ---
 
-UNDER CONSTRUCTION
+ท่านสามารถคลิกเพื่ออ่านเงื่อนไขได้ที่นี่
+<div class="_df_button df-element df-popup-button" id="book1" source="/assets/13928432%20PDF.pdf" data-df-lightbox="button" df-parsed="true">คลิกที่นี่</div>
